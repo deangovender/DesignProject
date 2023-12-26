@@ -89,7 +89,7 @@ void loop() {
   }
 
   sendFeedbackMessage();
-  delay(1000);
+  delay(3600000);
 
   hour = 0;
   readValue = 0;
